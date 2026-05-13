@@ -12,10 +12,10 @@ The application follows Object-Oriented Programming (OOP) principles and impleme
 
 👥 Team Members
 
-- Nawal Mahmoud Abdel Alem
-- Soussana Ishak Habib
-- Abanob Ihab Marcos
-- Youssef Osama Sami Azmi
+- Nawal Mahmoud Abdel Alem 20242375
+- Soussana Ishak Habib 20240253
+- Abanob Ihab Marcos 20240001
+- Youssef Osama Sami Azmi 20250905
 
 ---
 
